@@ -1,0 +1,21 @@
+label{
+    min-width: 130px;
+    line-height: 37px;
+}
+.container{
+    background-color: #f7941d;
+    border-radius: 3px;
+    padding: 30px 30px;
+}
+#exampleFormControlSelect1:hover{
+    cursor: pointer;
+}
+#exampleFormControlSelect2:hover{
+    cursor: no-drop;
+}
+#exampleFormControlSelect3:hover{
+    cursor: no-drop;
+}
+#addr{
+    width: -webkit-fill-available;
+}
